@@ -1,5 +1,5 @@
 name = "cloudflare-streams-tus-upload"
-account_id = "a67e14daa5f8dceeb91fe5449ba496eb"
+account_id = ""
 type = "webpack"
 zone_id = ""
 route = ""
